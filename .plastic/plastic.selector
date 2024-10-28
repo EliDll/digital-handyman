@@ -1,0 +1,4 @@
+repository "Hello Rotating-MR-Cube@eliasdellago@cloud"
+  path "/"
+    br "/main"
+    co "/main"
